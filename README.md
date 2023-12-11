@@ -1,2 +1,0 @@
-# CadastroUsuarioAPI
-Cadastro de usuários
